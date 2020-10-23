@@ -1,0 +1,41 @@
+* { box-sizing: border-box; }
+body {
+    margin: 0px;
+}
+#banner p{
+    background-image: url(../imgs/lilfish.gif);
+    font-size: 50px;
+    font-weight: bold;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+}
+
+nav {
+    text-align: center;
+    
+}
+
+nav a {
+    margin: 30px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.term-head{
+    font-weight: bold;
+}
+
+.main-body {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+footer a {
+    text-decoration: none;
+}
